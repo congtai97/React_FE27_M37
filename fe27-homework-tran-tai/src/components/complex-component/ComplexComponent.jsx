@@ -36,7 +36,7 @@ function ComplexComponent() {
           <button className="btn">Learn more</button>
         </div>
         <div className="content">
-          <h2 style={{ textAlign: "center", color: "red" }}>ConTent</h2>
+          <h1 style={{ textAlign: "center", color: "blue" }}>ConTent</h1>
         </div>
       </div>
     </div>
