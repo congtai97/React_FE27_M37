@@ -1,0 +1,12 @@
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    background-color: coral;
+}
+.sidebar ul{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    font-size: 30px;
+    color: white;
+}

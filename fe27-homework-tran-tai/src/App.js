@@ -1,12 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import { CardItem } from './components/CardItem';
+// import { CardItem } from './components/CardItem';
+import ComplexComponent from './components/complex-component/ComplexComponent';
 
 function App() {
   return (
-    <div className="App">
-      <CardItem></CardItem>
-    </div>
+      // <CardItem></CardItem>
+      <ComplexComponent></ComplexComponent>
   );
 }
 
