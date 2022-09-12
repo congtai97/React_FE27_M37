@@ -15,8 +15,8 @@ export const CardItem = () => {
         </div>
         <span>Secondary text</span>
         <p>
-          Lorem ipsum coládador sit amet, consectetur adipisdfsfsdicing elit,
-          sed do eiusmod tempor
+          Lorem ipsum coládador sit amet, consectetur adipidicing elit, sed do
+          eiusmod tempor
         </p>
       </div>
       <hr />
