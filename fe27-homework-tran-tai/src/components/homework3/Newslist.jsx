@@ -4,7 +4,7 @@ import images from "./images/images1.jpg";
 const newslist = [
   {
     title:
-      "Arsenal's Premier League clash with Man City postponed as UEFA rearranges PSV Europa League tie for October 20",
+      "Arsenal's Premier asdkhasdj League clash with Man City postponed as UEFA rearranges PSV Europa League tie for October 20",
     images: images,
     developer: "SkySports",
     description:
